@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\bhara\OneDrive\Desktop\minor project work '')\Code Work\Percolation_MinorProject\Percolation_MinorProject\WeightedQuickUnion.h(18,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bhara\OneDrive\Desktop\minor project work '')\Code Work\Percolation_MinorProject\Percolation_MinorProject\main.cpp(98,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Percolation_MinorProject.vcxproj -> C:\Users\bhara\OneDrive\Desktop\minor project work '')\Code Work\Percolation_MinorProject\x64\Debug\Percolation_MinorProject.exe
